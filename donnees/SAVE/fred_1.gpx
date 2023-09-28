@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<gpx
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/1"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+version="1.1"
+creator="iPhiGéNie-Android 10.3.7-A - 226 http://xn--iphignie-f1a.com/" >
+<metadata>
+    <name><![CDATA[[positions]]]></name>
+<desc><![CDATA[grp_rep:[positions]]]></desc>
+
+    <author><name><![CDATA[export]]></name></author>
+    <link href="urn:ipg_grep:coul=18446462603027742720"></link>    <time>2022-10-06T17:31:22Z</time>
+</metadata>
+  <wpt lat="45.045108" lon="6.312819">
+      <ele> 1509 </ele>    <name><![CDATA[31 juil. 2022]]></name>
+    <cmt><![CDATA[15:45:43]]></cmt>
+    <desc><![CDATA[]]></desc>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1659275143.109000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[31 juil. 2022]]></type>
+  </wpt>
+  <wpt lat="45.755508" lon="5.683195">
+      <ele> 336 </ele>    <name><![CDATA[9 août 2022]]></name>
+    <cmt><![CDATA[19:39:42]]></cmt>
+    <desc><![CDATA[]]></desc>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1660066782.729000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[9 août 2022]]></type>
+  </wpt>
+  <wpt lat="42.572517" lon="2.251985">
+      <ele> 817 </ele>    <name><![CDATA[28 août 2022]]></name>
+    <cmt><![CDATA[14:09:38]]></cmt>
+    <desc><![CDATA[]]></desc>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1661688578.484000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[28 août 2022]]></type>
+  </wpt>
+  <wpt lat="45.377269" lon="6.785549">
+      <ele> 2946 </ele>    <name><![CDATA[6 oct. 2022]]></name>
+    <cmt><![CDATA[10:44:28]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665045868.839000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[6 oct. 2022]]></type>
+  </wpt>
+  <wpt lat="45.377269" lon="6.785550">
+      <ele> 2946 </ele>    <name><![CDATA[6 oct. 2022]]></name>
+    <cmt><![CDATA[10:45:25]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665045925.865000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[6 oct. 2022]]></type>
+  </wpt>
+  <wpt lat="45.379445" lon="6.780659">
+      <ele> 2808 </ele>    <name><![CDATA[trou bouché neige ]]></name>
+    <cmt><![CDATA[11:27:12]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665048432.180000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[trou bouché neige ]]></type>
+  </wpt>
+  <wpt lat="45.380050" lon="6.778896">
+      <ele> 2733 </ele>    <name><![CDATA[perte importante colmatée]]></name>
+    <cmt><![CDATA[11:37:00]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665049020.601000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[perte importante colmatée]]></type>
+  </wpt>
+  <wpt lat="45.380598" lon="6.778419">
+      <ele> 2733 </ele>    <name><![CDATA[gouffre 4x2 meandre impenetrable au fond ]]></name>
+    <cmt><![CDATA[11:45:55]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665049555.383000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[gouffre 4x2 meandre impenetrable au fond ]]></type>
+  </wpt>
+  <wpt lat="45.380636" lon="6.778317">
+      <ele> 2725 </ele>    <name><![CDATA[gouffre bloc coincé 6m profond bloc et etroit au fond]]></name>
+    <cmt><![CDATA[11:48:56]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665049736.044000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[gouffre bloc coincé 6m profond bloc et etroit au fond]]></type>
+  </wpt>
+  <wpt lat="45.381001" lon="6.778231">
+      <ele> 2749 </ele>    <name><![CDATA[perte laminoire entre bloc ]]></name>
+    <cmt><![CDATA[11:54:28]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665050068.456000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[perte laminoire entre bloc ]]></type>
+  </wpt>
+  <wpt lat="45.380792" lon="6.778602">
+      <ele> 2743 </ele>    <name><![CDATA[faille perte colmatée ]]></name>
+    <cmt><![CDATA[12:09:22]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665050962.439000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[faille perte colmatée ]]></type>
+  </wpt>
+  <wpt lat="45.380783" lon="6.777172">
+      <ele> 2718 </ele>    <name><![CDATA[faille colmatée ]]></name>
+    <cmt><![CDATA[12:18:22]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665051502.313000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[faille colmatée ]]></type>
+  </wpt>
+  <wpt lat="45.380753" lon="6.777618">
+      <ele> 2731 </ele>    <name><![CDATA[laminoire etroit qui descends au fond ]]></name>
+    <cmt><![CDATA[12:29:36]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665052176.115000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[laminoire etroit qui descends au fond ]]></type>
+  </wpt>
+  <wpt lat="45.380738" lon="6.778486">
+      <ele> 2730 </ele>    <name><![CDATA[belle faille en plan incliné ]]></name>
+    <cmt><![CDATA[13:49:28]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665056968.399000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[belle faille en plan incliné ]]></type>
+  </wpt>
+  <wpt lat="45.380650" lon="6.778525">
+      <ele> 2731 </ele>    <name><![CDATA[petit gouffre 10m arret sur etroiture intéressant ]]></name>
+    <cmt><![CDATA[14:16:08]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665058568.035000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[petit gouffre 10m arret sur etroiture intéressant ]]></type>
+  </wpt>
+  <wpt lat="45.377827" lon="6.776534">
+      <ele> 2788 </ele>    <name><![CDATA[trou contact tremie roche mere intéressant ]]></name>
+    <cmt><![CDATA[15:21:09]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665062469.559000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[trou contact tremie roche mere intéressant ]]></type>
+  </wpt>
+  <wpt lat="45.377090" lon="6.776626">
+      <ele> 2827 </ele>    <name><![CDATA[petit trou sous bloc ]]></name>
+    <cmt><![CDATA[15:47:51]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665064071.508000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[petit trou sous bloc ]]></type>
+  </wpt>
+  <wpt lat="45.377181" lon="6.777634">
+      <ele> 2842 </ele>    <name><![CDATA[belle faille avec arrivee d'eau]]></name>
+    <cmt><![CDATA[15:56:52]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665064612.458000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[belle faille avec arrivee d'eau]]></type>
+  </wpt>
+  <wpt lat="45.377065" lon="6.778546">
+      <ele> 2855 </ele>    <name><![CDATA[puit de neige dans faille sous glacier ]]></name>
+    <cmt><![CDATA[16:24:30]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665066270.078000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[puit de neige dans faille sous glacier ]]></type>
+  </wpt>
+  <wpt lat="45.378057" lon="6.779159">
+      <ele> 2836 </ele>    <name><![CDATA[jolis faille 7m]]></name>
+    <cmt><![CDATA[16:40:09]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665067209.058000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[jolis faille 7m]]></type>
+  </wpt>
+  <wpt lat="45.378038" lon="6.779968">
+      <ele> 2847 </ele>    <name><![CDATA[diaclase perte etroite]]></name>
+    <cmt><![CDATA[16:55:19]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665068119.567000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[diaclase perte etroite]]></type>
+  </wpt>
+  <wpt lat="45.377845" lon="6.784055">
+      <ele> 2871 </ele>    <name><![CDATA[puit de neige ]]></name>
+    <cmt><![CDATA[17:08:27]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665068907.292000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[puit de neige ]]></type>
+  </wpt>
+  <wpt lat="45.377387" lon="6.784415">
+      <ele> 2915 </ele>    <name><![CDATA[gouffre intéressant ]]></name>
+    <cmt><![CDATA[17:10:56]]></cmt>
+    <src>iPhiGéNie, cartes IGN sur smartphone</src>
+    <link href="urn:ipg_rep:dt=1665069056.248000;coul=18446462603027742720"></link>
+    <sym>com.iphigenie.Rep_persist</sym>
+    <type><![CDATA[gouffre intéressant ]]></type>
+  </wpt>
+</gpx>

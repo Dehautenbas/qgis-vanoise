@@ -1,0 +1,52 @@
+<VRTDataset rasterXSize="5022" rasterYSize="4293">
+  <SRS dataAxisToSRSAxisMapping="1,2">PROJCS["RGF93 / Lambert-93",GEOGCS["RGF93",DATUM["Reseau_Geodesique_Francais_1993",SPHEROID["GRS 1980",6378137,298.257222101,AUTHORITY["EPSG","7019"]],AUTHORITY["EPSG","6171"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4171"]],PROJECTION["Lambert_Conformal_Conic_2SP"],PARAMETER["latitude_of_origin",46.5],PARAMETER["central_meridian",3],PARAMETER["standard_parallel_1",49],PARAMETER["standard_parallel_2",44],PARAMETER["false_easting",700000],PARAMETER["false_northing",6600000],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","2154"]]</SRS>
+  <GeoTransform>  9.8971750000000000e+05,  2.5000000000000000e+00,  0.0000000000000000e+00,  6.4882775000000000e+06,  0.0000000000000000e+00, -2.5000000000000000e+00</GeoTransform>
+  <VRTRasterBand dataType="Byte" band="1">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">183.34759297895</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">74.040600748895</MDI>
+    </Metadata>
+    <ColorInterp>Red</ColorInterp>
+    <SimpleSource resampling="bilinear">
+      <SourceFilename relativeToVRT="1">25000_decoupe.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="5022" RasterYSize="4293" DataType="Byte" BlockXSize="5022" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="5022" ySize="4293" />
+      <DstRect xOff="0" yOff="0" xSize="5022" ySize="4293" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="2">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">181.0909282738</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">75.362723966997</MDI>
+    </Metadata>
+    <ColorInterp>Green</ColorInterp>
+    <SimpleSource resampling="bilinear">
+      <SourceFilename relativeToVRT="1">25000_decoupe.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="5022" RasterYSize="4293" DataType="Byte" BlockXSize="5022" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="5022" ySize="4293" />
+      <DstRect xOff="0" yOff="0" xSize="5022" ySize="4293" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="3">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">174.61187194256</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">79.31983841785</MDI>
+    </Metadata>
+    <ColorInterp>Blue</ColorInterp>
+    <SimpleSource resampling="bilinear">
+      <SourceFilename relativeToVRT="1">25000_decoupe.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="5022" RasterYSize="4293" DataType="Byte" BlockXSize="5022" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="5022" ySize="4293" />
+      <DstRect xOff="0" yOff="0" xSize="5022" ySize="4293" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>
