@@ -1,4 +1,7 @@
 *.aux.xml
 Prospection-vanoise.tif
+*shm
+*wal
+*vrt
 #ignorer 
 
