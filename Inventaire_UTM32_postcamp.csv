@@ -1,0 +1,329 @@
+fid,id,Description,Numéro,Nom,Alt,Image entrée,Historique,Pseudo,Continuation,Secteur,Profondeur,Développement,Courant d'air,coord_x,coord_y,ok,xcoord,ycoord,xcoord_2,ycoord_2
+"1","8","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Ouverture de 2.5x1, dans la faille bien visible depuis le col de Génépy.</p>
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">À 10m du rocher du Génépy.</p></body></html>",G1,Marbrimba 117,"2946",,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Découvert et exploré en octobre 2022</p></body></html>",Marbrimba,"Non, arrêt sur blocs ou étroiture impénétrable","Génépy (G)
+","-117","130",Soufflant - été,6.78555,45.377269,Oui,6.78555,45.377269,326617.14013717,5027246.95122038
+"2","9","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Trou bouché par la neige en octobre 2022</p></body></html>",G16,,"2808",,,Trou bouché par la neige,"Oui, bouchon de neige ou glace","Génépy (G)
+",,,,6.780659,45.379445,Oui,6.780659,45.379445,326240.864171499,5027499.24235153
+"3","10","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Perte importante colmatée.</p></body></html>",G15,,"2733",../QGIS_Vanoise/images/entree/G15.jpg,,Perte colmatée,"Non, arrêt sur blocs ou remplissage","Génépy (G)
+",,,,6.778896,45.38005,Oui,6.778896,45.38005,326104.689702978,5027570.26303793
+"4","11","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Gouffre de 4x2 arrêt sur méandre impénetrable</p></body></html>",G12,,"2733",../QGIS_Vanoise/images/entree/G12.jpg,,Gouffre de 4x2 meandre impenetrable,"Non, arrêt sur étroiture imp trop longue,  mais désob envisageable","Génépy (G)
+",,,,6.778419,45.380598,Oui,6.778419,45.380598,326069.025545511,5027632.17349493
+"5","12","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Gouffre avec un bloc coincé sur l'entrée. <br />6m de profond, étroiture au fond.</p></body></html>",G11,,"2725",../QGIS_Vanoise/images/entree/G11.jpg,,Gfr bloc coincé étroiture,"Non, arrêt sur blocs ou étroiture impénétrable","Génépy (G)
+","-6",,,6.778317,45.380636,Oui,6.778317,45.380636,326061.156432153,5027636.61556922
+"6","13","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Dev env 35m,-20. </p>
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Perte deriière un gros bloc.<br />Méandre étroit, 2 ressauts de 3m, arret sur p5.  Chiant pour y aller mais ca continue. Vraie forme de méandre.  Dans marbre blanc. Pas de CA ressenti</p></body></html>",G8,Perte des copains,"2749",../QGIS_Vanoise/images/entree/G8.jpg,,,"Oui, désob courte <1j","Génépy (G)
+",,,,6.778231,45.381001,Oui,6.778231,45.381001,326055.543179211,5027677.35072052
+"7","14","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Perte dans une faille descendue sur 10m, colmatée par des blocs.  Pas de suite envisageable.</p></body></html>",G9,,"2743",../QGIS_Vanoise/images/entree/G9.jpg,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Descendue en octobre 2022</p></body></html>",Faille perte colmatée ,"Non, arrêt sur blocs ou remplissage","Génépy (G)
+",,,,6.778602,45.380792,Oui,6.778602,45.380792,326083.94787489,5027653.33008545
+"8","15","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Simple faille rapidement colmatée </p></body></html>",G6,,"2718",../QGIS_Vanoise/images/entree/G6.jpg,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">2022 PtitFred</p></body></html>",,"Non, arrêt sur blocs ou étroiture impénétrable","Génépy (G)
+","-10",,,6.777172,45.380783,Oui,6.777172,45.380783,325971.964426789,5027655.42239732
+"9","16","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Laminoire étroit qui descend</p></body></html>",G7,,"2731",../QGIS_Vanoise/images/entree/G7.jpg,,Laminoire étroit qui descend,A aller voir,"Génépy (G)
+",,,,6.777618,45.380753,Oui,6.777618,45.380753,326006.790061291,5027651.12496426
+"10","17","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Belle faille en plan incliné.</p></body></html>",G10,,"2730",../QGIS_Vanoise/images/entree/G10.jpg,,Belle faille en plan incliné ,A aller voir,"Génépy (G)
+",,,,6.778486,45.380738,Oui,6.778486,45.380738,326074.700497761,5027647.58178049
+"11","18","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Gouffre d'une dizaine de mètres de profondeur, arrêt sur étroiture.</p></body></html>",G13,,"2731",../QGIS_Vanoise/images/entree/G13.jpg,,,"Non, arrêt sur étroiture imp trop longue,  mais désob envisageable","Génépy (G)
+","-10",,,6.778525,45.38065,Oui,6.778525,45.38065,326077.483904966,5027637.72122187
+"12","20","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Petit trou sous un bloc </p></body></html>",AR7,,"2827",,,,A aller voir,"Arcelin (AR)
+",,,,6.776626,45.37709,Oui,6.776626,45.37709,325917.880178472,5027246.33443439
+"13","22","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Entrée circulaire de 1x2m dans le marbre blanc.</p>
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Puits de 8m, arrêt sur bouchon de glace.  Belles formes d'érosion.</p></body></html>",G18,,"2855",,,,"Oui, bouchon de neige ou glace","Génépy (G)
+","-8",,Non été,6.778546,45.377065,Oui,6.778546,45.377065,326068.131630516,5027239.40481689
+"14","23","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Cavité s’ouvrant par un orifice de 0.8x0.8m. </p>
+<p style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Un puits de 9m permet d’accéder à un p15 de belles dimensions. Celui-ci laisse entrevoir très nettement le contact marbre blanc – marbre chloriteux à -15m. On arrive alors au fond de la faille, (axe N-S) qui semble comblées par des petits blocs. Un orifice au point bas laisse cependant entrevoir une suite. Une courte désobstruction a permis d’accéder à un p8. Celui-ci se descend le long d’un remplissage de galets centimétriques cimentés ensemble, du moins nous l’espérons…<br />En se faufilant vers l’aval de la faille, un r5 donne accès au point bas de la cavité, la faille se rétrécissant trop pour permettre une quelconque avancée. </p></body></html>",G4,,"2836",../QGIS_Vanoise/images/entree/G4.jpg,,Gfr -42m Cha et Martin,"Non, arrêt sur étroiture impénétrable et indésobstruable","Génépy (G)
+","-42","56",Non été,6.779159,45.378057,Oui,6.779159,45.378057,326119.168924803,5027348.28482852
+"15","26",,G2,,"2915",../QGIS_Vanoise/images/entree/G2.jpg,,,"Non, arrêt sur blocs ou étroiture impénétrable","Génépy (G)
+",,,,6.784415,45.377387,Oui,6.784415,45.377387,326528.635541456,5027262.50670036
+"16","27","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Grotte glacée du lagon bleu</p></body></html>",M4,Lagon Bleu,,,,,,Moulin (M),"-63","517",Soufflant + été,6.7779414,45.37593412,Oui,6.7779414,45.37593412,326017.324319418,5027115.07833536
+"17","28","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Entrée 3 du Lagon Bleu</p></body></html>",M6,,,,,,,Moulin (M),,,,6.77726905,45.37431391,Oui,6.77726905,45.37431391,325959.708736276,5026936.5373127
+"18","29","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Entré 2 du Lagon Bleu</p></body></html>",M5,,,,,,,Moulin (M),,,,6.77717431,45.3746298,Oui,6.77717431,45.3746298,325953.2600835,5026971.83560919
+"19","30","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Trou dans Calcaire,  à revoir avec moins de neige en été </p></body></html>",AR6,,,,,,A aller voir,"Arcelin (AR)
+",,,,6.77621309736377,45.3735744531812,Oui,6.77621309736377,45.3735744531812,325874.757570659,5026856.67288178
+"20","31","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Faille de 5mx0.6 de 7m de prof bouchée par des blocs.</p></body></html>",G17,,,,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Martin, Jean, Simon </p>
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Octobre 2022</p></body></html>",,"Non, arrêt sur blocs ou remplissage","Génépy (G)
+","-7",,,6.77862440911326,45.3774482944337,Oui,6.77862440911326,45.3774482944337,326075.446362602,5027281.81691903
+"21","32","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Orifice de 0.6x0.3, profond de 15m,arret sur faille impénétrable.</p></body></html>",G14,,,,,,"Non, arrêt sur blocs ou étroiture impénétrable","Génépy (G)
+","-15",,,6.77847908,45.38056396,Oui,6.77847908,45.38056396,326073.624853816,5027628.26198261
+"22","34","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Sondé a 20m violent courant d’air</p></body></html>",AR2,,"2580",,,,,"Arcelin (AR)
+",,,,,,,,,inf,inf
+"23","35","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Ducluzeaux  : -45m Arret sur etroiture après 15m de méandre actif</p></body></html>",AR3,Gouffre de l’Arcelin,"2560",,,,"Oui, désob courte <1j","Arcelin (AR)
+",,,,6.76801939061278,45.3748127182364,Oui,6.76801939061278,45.3748127182364,325237,5027012
+"24","36",,AR1,Arcel1,,,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Découvert et exploré en octobre 2022</p></body></html>",,"Non, arrêt sur blocs ou remplissage","Arcelin (AR)
+",,,,6.77215292256037,45.3788270738181,Oui,6.77215292256037,45.3788270738181,325573,5027449
+"25","37","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Diaclase profonde d’1m large de 50cm, bouchée par des sédiments, prolongement sous la neige.</p></body></html>",AR4,,"2757",,,,"Oui, bouchon de neige ou glace","Arcelin (AR)
+",,,,6.77617326969492,45.3776002534957,Oui,6.77617326969492,45.3776002534957,325884,5027304
+"26","38","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">P8 circulaire diamètre 80cm/1m, bouchon de neige le 18/10/21</p></body></html>",AR5,,"2791",,,,"Oui, bouchon de neige ou glace","Arcelin (AR)
+","-8",,,6.77755577136304,45.3771951074734,Oui,6.77755577136304,45.3771951074734,325991,5027256
+"27","41","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Prof 22m Diaclase</p></body></html>",R1,,"2700",,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Ancien nom : CAF R1</p></body></html>",,A aller voir,Réchasse (R),"-22",,,6.80066731120388,45.3822874055751,,6.80066731120388,45.3822874055751,327816,5027772
+"28","42","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Prof 30m Etroiture Verticale</p></body></html>",R17,,"2780",,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">CAF R17</p></body></html>",,A aller voir,Réchasse (R),"-30",,,6.80062936905289,45.3822776732337,,6.80062936905289,45.3822776732337,327813,5027771
+"29","43","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Prof 25m Puits</p></body></html>",R18,,"2790",,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">CAF R18</p></body></html>",,A aller voir,Réchasse (R),"-25",,,6.80061625643855,45.382286422024,,6.80061625643855,45.382286422024,327812,5027772
+"30","44","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Prof 22m dans la moraine </p></body></html>",R19,,"2810",,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">CAF 19</p>
+<p style=""-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><br /></p></body></html>",,A aller voir,Réchasse (R),"-22",,,6.80057761643477,45.3822946790256,,6.80057761643477,45.3822946790256,327809,5027773
+"31","45","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Prof 20m</p></body></html>",R22,,"2790",,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">CAF R22</p></body></html>",,A aller voir,Réchasse (R),"-22",,,6.80060349274763,45.3822861761327,,6.80060349274763,45.3822861761327,327811,5027772
+"32","46","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Puits 22m</p></body></html>",R24,,"2810",,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">CAF R24</p>
+<p style=""-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><br /></p></body></html>",,A aller voir,Réchasse (R),"-22",,,6.80059072905687,45.3822859302399,,6.80059072905687,45.3822859302399,327810,5027772
+"33","47","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Puits 18m</p></body></html>",R28,,"2930",,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">CAF R28</p>
+<p style=""-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><br /></p></body></html>",,A aller voir,Réchasse (R),"-18",,,6.80054002323289,45.382275951975,,6.80054002323289,45.382275951975,327806,5027771
+"34","48","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Petits trous dans les marbres bleu du Malm 352,3x948,6</p></body></html>",CAF 1,,"2600",,,,,Réchasse (R),,,,,,,,,inf,inf
+"35","49","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Trou ?</p>
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Pointages Google Earth secteur Rocher Genepi Pte Vive </p></body></html>",P_AR1,,"2654",,,,A aller voir,"Arcelin (AR)
+",,,,6.77524142934396,45.3805165572948,Oui,6.77524142934396,45.3805165572948,325820,5027630
+"36","50","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Trou ?</p>
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Pointages Google Earth</p></body></html>",P_G3,,"2857",,,,A aller voir,"Génépy (G)
+",,,,6.78057499375566,45.3767407626141,Oui,6.78057499375566,45.3767407626141,326226,5027199
+"37","52","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Trou ?</p></body></html>",P_G2,,"2740",,,,A aller voir,"Génépy (G)
+",,,,6.77940927120158,45.3791124692187,Oui,6.77940927120158,45.3791124692187,326142,5027465
+"38","53","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Petit trou dans la neige le 18/10/21 </p></body></html>",PG_2,,"2742",,,,A aller voir,"Génépy (G)
+",,,,6.77789148413144,45.3787318819726,Oui,6.77789148413144,45.3787318819726,326022,5027426
+"39","54","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Moulin en bas du glacier, proche grotte sous la glace 1</p>
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Images satellites sept 19</p></body></html>",M7,,"2935",,,,A aller voir,Moulin (M),,,,6.78171835440579,45.3746116469741,Oui,6.78171835440579,45.3746116469741,326309,5026960
+"40","55","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Moulin 2</p></body></html>",M2,Moulin 2,"2987",,,,,Moulin (M),,,,6.78566549868864,45.3732840535412,Oui,6.78566549868864,45.3732840535412,326614,5026804
+"41","56","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Moulin sur Images satellites sept 2019</p></body></html>",M3     ,,"2991",,,,A aller voir,Moulin (M),,,,6.78245693098349,45.3717275397257,Oui,6.78245693098349,45.3717275397257,326358,5026638
+"42","57","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Premier moulin descendu en octobre 2022.</p>
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Simple puits de 4m de diamètre, profond d'une trentaine de mètres.  Au fond, l'eau se perd dans un laminoir de glace trop étroit pour être pénétré.</p>
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">A noter que lorsque nous l'avons descendu la bédière l'alimentant ne coulait plus, il est donc fort propable qu'en période active cette étroiture soit plus large.</p></body></html>",M1,,"3005",,,,,Moulin (M),"-30",,,6.78775023951328,45.3715691940203,Oui,6.78775023951328,45.3715691940203,326772,5026609
+"43","58","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Cavité s’ouvrant en dessous d’un petit rognon rocheux. <br />L’entrée, une faille de de 1.5m par 0.5 est couverte par un bloc coincé et laisse voir de belles traces d’érosion. </p>
+<p style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Simple puits de 25m, les deux premiers mètres sont creusés dans les marbres chloriteux, la suite se développe dans le marbre blanc dans lequel l’eau a creusée une goulotte remarquable. Arrêt sur remplissage de blocs au fond de la faille, un orifice laisse entrevoir un second palier de blocs 4m plus bas. Un élargissement de la faille serait nécessaire pour accéder à une suite, peu probable. </p>
+<p style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Faible courant d’air soufflant le 07/10/2022, T°ext de 10°C. </p></body></html>",G3,,,,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Découvert et exploré en octobre 2022</p></body></html>",Gfr -25m Cha et Martin,"Non, arrêt sur étroiture imp trop longue,  mais désob envisageable","Génépy (G)
+","-25","30",Soufflant - été,6.78014709659634,45.3782080730429,Oui,6.78014709659634,45.3782080730429,326196.994571423,5027362.93318412
+"44","59","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Trou ?</p>
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Pointages Google Earth</p></body></html>",P_AR2,,"2568",,,,A aller voir,"Arcelin (AR)
+",,,,,,Oui,6.77245492609321,45.3812183397817,325604,5027714
+"45","61","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Escalade de 10m pour rejoindre le porche qui est en réalité une simple poche sans continuation. Beaucoup de traces de guano de choucas. Un spit en haut... </p></body></html>",AR8,Gros porche,"2438",../QGIS_Vanoise/images/entree/AR8.jpg,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">Vu Par Théo.C en 2021</p></body></html>",,"Non, arrêt sur blocs ou remplissage","Arcelin (AR)
+",,,,,,Oui,6.77379279496897,45.3818005233764,325710.531670894,5027775.77782506
+"46","62","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">NULL</p></body></html>","1777",,,,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+</style></head><body style="" font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"">NULL</p></body></html>",,,,,,,,,,6.77607341998645,45.3876991918976,325907.195599804,5028426.14539339
